@@ -42,6 +42,7 @@ gem 'letter_opener' , group: :development
 gem 'aasm'
 gem 'carrierwave-qiniu'
 gem 'qiniu-rs'
+gem 'figaro'
 gem 'acts_as_list'
 
 group :development, :test do
